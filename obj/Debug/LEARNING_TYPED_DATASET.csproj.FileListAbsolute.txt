@@ -1,0 +1,10 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\bin\Debug\LEARNING_TYPED_DATASET.exe.config
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\bin\Debug\LEARNING_TYPED_DATASET.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\bin\Debug\LEARNING_TYPED_DATASET.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.Properties.Resources.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.UI.SampleForm.resources
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.csproj.GenerateResource.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_TYPED_DATASET\LEARNING_TYPED_DATASET\obj\Debug\LEARNING_TYPED_DATASET.pdb
